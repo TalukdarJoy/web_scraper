@@ -68,6 +68,3 @@ This project was a hands-on introduction to:
 
 Built while following [DataCamp's Web Scraping Using Python tutorial](https://www.datacamp.com/tutorial/web-scraping-using-python), then adapted and extended with additional data-cleaning logic.
 
-## License
-
-This project is for educational purposes.
